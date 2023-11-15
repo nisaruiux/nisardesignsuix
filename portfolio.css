@@ -760,7 +760,7 @@ body::-webkit-scrollbar {
             left: -50%;
             width: 200%;
             height: 200%;
-            background: rgba(255, 255, 255, 0.3);
+            background: rgba(255, 255, 255, 0.518);
             transform: rotate(-20deg);
             transition: all 0.5s ease-in-out;
             opacity: 0;
