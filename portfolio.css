@@ -78,7 +78,7 @@
   height: 2.142vw;
 }
 .nav-link{
-  font-size: 14px;
+  font-size: 15px;
 }
 #nav-tab button.active{
   color: var(--main) ;
@@ -205,7 +205,7 @@ body::-webkit-scrollbar {
   color: var(--para);
 }
 .card-title{
-  font-size: 1vw;
+  font-size: 15px;
   color: black;
   
 }
